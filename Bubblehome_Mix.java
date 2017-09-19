@@ -1,6 +1,7 @@
+// @5907101024 : Pacharapon Sreepiachai
 package th.ac.utcc.cpe.mopMo.bubblesortArray;
 
-public class Bubblehome_Mix { // 5907101024 : Pacharapon Sreepiachai
+public class Bubblehome_Mix { 
 	private double [] element;
 	private int eSize;
 	
